@@ -1,4 +1,4 @@
-baseURL = 'my-cloud-blog-2026.vercel.app'
+baseURL = 'https://my-cloud-blog-2026-git-main-evermore127s-projects.vercel.app/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = "PaperMod"
