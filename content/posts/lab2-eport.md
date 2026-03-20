@@ -1,8 +1,8 @@
-+++
-date = '2026-03-20T19:28:50+08:00'
-draft = false
-title = 'Lab Report'
-+++
+---
+title: "Lab Report"
+date: 2026-03-20T19:28:50+08:00
+draft: false
+---
 
 ### 实验目的：
 
